@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/saurabh-prakash/gin"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/gin-gonic/gin"
+	"github.com/saurabh-prakash/gin"
 )
 
 type cors struct {
